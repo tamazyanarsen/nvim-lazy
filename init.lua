@@ -9,7 +9,7 @@ vim.g.neovide_cursor_vfx_mode = "railgun" -- vortex,ripple,sonicboom
 
 vim.g.neovide_profiler = true
 
-vim.g.neovide_transparency = 0.8
+vim.g.neovide_opacity = 0.8
 vim.g.neovide_window_blurred = true
 
 -- Это добавляет «глубины» интерфейсу, и подсказки не сливаются с основным кодом
