@@ -3,7 +3,7 @@ require("config.lazy")
 
 vim.o.guifont = "Hack Nerd Font Mono:h14:#e-subpixelantialias"
 
-vim.g.neovide_cursor_vfx_mode = "railgun" -- vortex,ripple,sonicboom
+vim.g.neovide_cursor_vfx_mode = "railgun" -- vortex,ripple,sonicboom,railgun
 -- vim.g.neovide_cursor_vfx_particle_density = 7.0
 -- vim.g.neovide_cursor_vfx_particle_lifetime = 1.2
 
