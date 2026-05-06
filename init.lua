@@ -1,7 +1,7 @@
 -- bootstrap lazy.nvim, LazyVim and your plugins
 require("config.lazy")
 
-vim.o.guifont = "Hack Nerd Font Mono:h14:#e-subpixelantialias"
+vim.o.guifont = "Hack Nerd Font Mono:h14"
 
 vim.g.neovide_cursor_vfx_mode = "railgun" -- vortex,ripple,sonicboom,railgun
 -- vim.g.neovide_cursor_vfx_particle_density = 7.0
